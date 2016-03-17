@@ -1,0 +1,12 @@
+.home-bg-cover {
+  background-image: url(../images/home-bg.jpeg);
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+.bg-gradient-1 {
+  background: #540054; 
+  background: -webkit-linear-gradient(to top, #540054, #bf4193); 
+  background: linear-gradient(to top, #540054, #bf4193); 
+  color: #FFF;
+}
